@@ -11,7 +11,7 @@ class IntegerArray {
 private:
 	int m_length;
 	int* m_data;
-
+	
 public:
 	IntegerArray(int length);
 	~IntegerArray();
